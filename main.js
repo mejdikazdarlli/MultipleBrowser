@@ -204,7 +204,7 @@ else
 
 		let wins = windowManager.getWindows();
 
-
+//
 		// loop through all our cubes and update their positions based on current window positions
 		for (let i = 0; i < cubes.length; i++)
 		{
